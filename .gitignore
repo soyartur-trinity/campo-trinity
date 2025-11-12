@@ -1,0 +1,21 @@
+# Sistema macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian (ignorar estado y plugins locales)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# Permitir snippets y temas si los usas (quítales el ignore si quieres versionarlos)
+# .obsidian/snippets/
+# .obsidian/themes/
+
+# Archivos temporales
+*.tmp
+*.swp
+~$*
