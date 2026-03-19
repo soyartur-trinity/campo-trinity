@@ -16,7 +16,7 @@ un espacio laboratorio donde se integran:
 
 Antes de navegar el contenido, se sugiere entrar por la puerta adecuada:
 
-👉 **[Abrir Portal Trinity](00_Portal_Maestro/portal_trinity.html)**  
+👉 **[Abrir Portal Trinity](Campo_Trinity/00_Portal_Maestro/portal_trinity.html)**  
 
 > Observa el centro • Respira • Permite que la geometría te guíe
 
