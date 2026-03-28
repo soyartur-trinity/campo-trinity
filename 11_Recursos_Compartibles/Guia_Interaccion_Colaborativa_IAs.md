@@ -214,7 +214,8 @@ Ejemplos:
 ## 🌀 Recursos Adicionales
 
 - **Glosario de términos:** Alteridad algorítmica, psicofancia, empatía funcional  
-  [Link al Glosario Interdimensional]
+  campo-trinity/14_Inteligencias_Colaborativas/Glosario_Interdimensional.md
+
 
 ---
 
