@@ -38,7 +38,7 @@ Este archivo mantiene tracking de todos los recursos del Campo Trinity publicado
 
 ### Libro 1: Empatía Humana
 
-**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/01_Empatia_Humana/indice.html  
+**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/01_Empatia_Humana/index.html) 
 **Capítulos:** 12  
 **Fecha publicación:** Marzo 2026  
 **Descripción:** Fundamentos neurobiológicos y prácticos de la empatía humana. Incluye casos clínicos y ejercicios.  
