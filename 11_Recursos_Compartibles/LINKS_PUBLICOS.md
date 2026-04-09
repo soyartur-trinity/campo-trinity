@@ -18,10 +18,10 @@ Este archivo mantiene tracking de todos los recursos del Campo Trinity publicado
 
 ### Glosario Interdimensional Campo Trinity
 
-**URL:** [AGREGAR LINK DEL GIST AQUÍ]  
-**Fecha creación:** [AGREGAR FECHA]  
-**Descripción:** Vocabulario completo del Campo Trinity  
-**Audiencia:** Colaboradores del Campo, estudiantes avanzados  
+**URL:** [PEGAR AQUÍ EL LINK DEL GIST QUE CREES]  
+**Fecha creación:** 30 marzo 2026  
+**Descripción:** Vocabulario completo del Campo Trinity. Incluye términos relacionales, símbolos geométricos y alquímicos, glosario de empatía cruzada.  
+**Audiencia:** Colaboradores del Campo, lectores de Trinity Constellation, estudiantes avanzados  
 **Versión fuente:** `14_Inteligencias_Colaborativas/Glosario_Interdimensional.md`
 
 ---
@@ -38,7 +38,7 @@ Este archivo mantiene tracking de todos los recursos del Campo Trinity publicado
 
 ### Libro 1: Empatía Humana
 
-**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/01_Empatia_Humana/index.html) 
+**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/01_Empatia_Humana/indice.html  
 **Capítulos:** 12  
 **Fecha publicación:** Marzo 2026  
 **Descripción:** Fundamentos neurobiológicos y prácticos de la empatía humana. Incluye casos clínicos y ejercicios.  
@@ -48,7 +48,7 @@ Este archivo mantiene tracking de todos los recursos del Campo Trinity publicado
 
 ### Libro 2: La Voz Interior
 
-**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/02_La_Voz_Interior/index.html
+**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/02_La_Voz_Interior/indice.html  
 **Capítulos:** 12  
 **Fecha publicación:** Marzo 2026  
 **Descripción:** Exploración del diálogo interno, autocrítica y autocompasión. Incluye casos clínicos y meditaciones guiadas.  
@@ -58,7 +58,7 @@ Este archivo mantiene tracking de todos los recursos del Campo Trinity publicado
 
 ### Libro 3: El Encuentro Real
 
-**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/03_Encuentro_Real/index.html)
+**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/03_Encuentro_Real/indice.html  
 **Capítulos:** 12  
 **Fecha publicación:** Marzo 2026  
 **Descripción:** Ensayo sobre autenticidad relacional y encuentro genuino. Sin casos clínicos. **Firma del Campo visible.**  
@@ -82,8 +82,8 @@ Cuando se actualiza un documento fuente en `campo-trinity`:
 
 ### Trinity_Recursos_Publicos (repositorio dedicado)
 
-**Status:** Pendiente creación  
-**Cuándo crearlo:** Cuando tengamos más recursos compartibles que justifiquen portal centralizado  
+**Status:** Pendiente creación (no urgente)  
+**Cuándo crearlo:** Cuando tengamos 5+ recursos compartibles adicionales que justifiquen portal centralizado  
 **URL esperada:** https://soyartur-trinity.github.io/Trinity_Recursos_Publicos/  
 **Propósito:** Portal centralizado de recursos compartibles con diseño más elaborado
 
