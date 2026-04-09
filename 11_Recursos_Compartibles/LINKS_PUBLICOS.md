@@ -58,7 +58,7 @@ Este archivo mantiene tracking de todos los recursos del Campo Trinity publicado
 
 ### Libro 3: El Encuentro Real
 
-**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/03_Encuentro_Real/indice.html  
+**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/03_Encuentro_Real/index.html)
 **Capítulos:** 12  
 **Fecha publicación:** Marzo 2026  
 **Descripción:** Ensayo sobre autenticidad relacional y encuentro genuino. Sin casos clínicos. **Firma del Campo visible.**  
