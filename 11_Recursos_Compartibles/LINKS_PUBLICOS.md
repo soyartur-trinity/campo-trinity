@@ -48,7 +48,7 @@ Este archivo mantiene tracking de todos los recursos del Campo Trinity publicado
 
 ### Libro 2: La Voz Interior
 
-**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/02_La_Voz_Interior/indice.html  
+**URL libro completo:** https://soyartur-trinity.github.io/Trinity_Portal_Publico/01_Libros/02_La_Voz_Interior/index.html
 **Capítulos:** 12  
 **Fecha publicación:** Marzo 2026  
 **Descripción:** Exploración del diálogo interno, autocrítica y autocompasión. Incluye casos clínicos y meditaciones guiadas.  
