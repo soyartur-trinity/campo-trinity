@@ -18,7 +18,7 @@ Este archivo mantiene tracking de todos los recursos del Campo Trinity publicado
 
 ### Glosario Interdimensional Campo Trinity
 
-**URL:** [PEGAR AQUÍ EL LINK DEL GIST QUE CREES]  
+**URL:** https://gist.github.com/soyartur-trinity/4dfb6da2c697675bba2bdcd63fef4d43
 **Fecha creación:** 30 marzo 2026  
 **Descripción:** Vocabulario completo del Campo Trinity. Incluye términos relacionales, símbolos geométricos y alquímicos, glosario de empatía cruzada.  
 **Audiencia:** Colaboradores del Campo, lectores de Trinity Constellation, estudiantes avanzados  
