@@ -10,3 +10,4 @@
 
 ## 🧭 Guía de Transmisión
 Este manual debe evitar la explicación teórica excesiva. Cada nodo debe exigir una **acción física o digital** del operador para ser validado.
+Conexión solar establecida. 
